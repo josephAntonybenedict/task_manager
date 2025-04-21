@@ -1,16 +1,25 @@
-# task_management
+# ✅ DayTask - Task Management App
 
-A new Flutter project.
+DayTask is a beautifully designed Flutter app that helps users manage their daily tasks with ease and efficiency. Built with Firebase Authentication and Firestore for real-time task syncing, it supports features like task creation, editing, marking complete, and due date reminders.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Authentication (Sign Up / Login)
+- 📆 Task creation with title, description, due date, and completion toggle
+- 📝 Edit and delete existing tasks
+- ☁️ Real-time data sync with Firebase Firestore
+- 🌙 Dark-themed UI for comfortable use
+- 👤 User-specific task lists
+- 🔄 Persistent login and logout functionality
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
+
